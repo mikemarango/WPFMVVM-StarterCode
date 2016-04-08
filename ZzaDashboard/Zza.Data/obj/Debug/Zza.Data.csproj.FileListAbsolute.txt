@@ -1,0 +1,9 @@
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Database\bin\Debug\Zza.Database.dacpac
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Database\bin\Debug\Zza.Database.dll
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Database\bin\Debug\Zza.Database.pdb
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Database\obj\Debug\Model.xml
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Database\obj\Debug\refactor.xml
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Database\obj\Debug\postdeploy.sql
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Database\obj\Debug\predeploy.sql
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Database\obj\Debug\Zza.Database.dll
+C:\Users\Mike Pro\Source\Repos\WPFMVVM-StarterCode\ZzaDashboard\Zza.Database\obj\Debug\Zza.Database.pdb
